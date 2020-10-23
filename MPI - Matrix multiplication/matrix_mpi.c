@@ -4,8 +4,6 @@
 #include <time.h>
 
 
-
-#define MAX 2
 #define R_A 2
 #define C_A 2
 #define R_B 2 
